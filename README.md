@@ -66,3 +66,6 @@ sqlcmd -S servername -i database_seeding.sql
 
     + Email: shrirajan331@gmail.com
     + LinkedIn: https://www.linkedin.com/in/shriraam-nagarajan-827b38198/
+
+
+Thank you for checking out this project!😊
